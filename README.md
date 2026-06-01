@@ -5,7 +5,7 @@
 Welcome to my GitHub. I'm a Computer Science engineering student at BNMIT focused on the intersection of hardware, biologically-inspired AI, and complex systems. While I build full-stack web applications and CI/CD pipelines, I primarily use those as vessels to serve my actual passion: experimental AI architectures, automated discovery, and bridging the digital-physical divide.
 
 ### 💻 Core Tech Stack
-**Languages**: Python • Java • C • Kotlin • TypeScript • SQL  
+**Languages**: Python • Java • C • TypeScript • SQL  
 **AI & Architecture**: PyTorch • TensorFlow • ChromaDB • LoRA/PEFT • OpenCV  
 **Hardware & Systems**: Signal Processing (EMG/BCI) • XGBoost  
 **Full-Stack & Infra**: React • Next.js • FastAPI • Flask • Docker • GitHub Actions  
